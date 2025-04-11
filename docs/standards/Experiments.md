@@ -17,7 +17,7 @@ that meet all of the following conditions:
 In true experiments, experimental units are randomly allocated across
 treatments; quasi-experiments lack random assignment. Experiments
 include between-subjects, within-subjects and repeated measures designs.
-For experiments without human participants, see the **Exploratory Data
+For experiments without human participants, see the **Data
 Science Standard** or the **Engineering Research Standard**.
 
 ## Specific Attributes 
